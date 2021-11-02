@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+}
+
+html {
+  font-family: "Fruktur", cursive;
+}
+
+body {
+  background-color: #88e0ef;
+}
+
+h1 {
+  color: #ff5151;
+  font-size: 5rem;
+}
+
+p {
+  color: #161e54;
+  font-size: 3rem;
+}
+
+button {
+  color: #161e54;
+  background-color: #ff9b6a;
+  width: 6rem;
+  height: 3rem;
+  font-size: 2rem;
+  font-family: "Fruktur", cursive;
+}
